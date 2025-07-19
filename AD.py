@@ -1,4 +1,4 @@
-📁 project_folder/
+
 │
 ├── Home.py                          ← 첫 화면
 ├── pages/
